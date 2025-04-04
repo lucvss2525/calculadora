@@ -20,6 +20,11 @@ if M == 1:
     A = int (input('Ingrese Numero 1: '))
     B = int (input('Ingrese Numero 2: '))
     suma(A,B)
+elif M == 2:
+    print ('Ud eligio  Resta')
+    A = int (input('Ingrese Numero 1: '))
+    B = int (input('Ingrese Numero 2: '))
+    resta(A,B)
 elif M == 3:
     print ('Ud eligio  multiplicacion')
     A = int (input('Ingrese Numero 1: '))
