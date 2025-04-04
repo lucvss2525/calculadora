@@ -20,19 +20,5 @@ if M == 1:
     A = int (input('Ingrese Numero 1: '))
     B = int (input('Ingrese Numero 2: '))
     suma(A,B)
-elif M == 2:
-    print ('Ud eligio  la Resta')
-    A = int (input('Ingrese Numero 1: '))
-    B = int (input('Ingrese Numero 2: '))
-    resta(A,B)
-elif M == 3:
-    print ('Ud eligio  la Multiplicacion')
-    A = int (input('Ingrese Numero 1: '))
-    B = int (input('Ingrese Numero 2: '))
-    multiplicacion(A,B)
-elif M == 4:
-    print ('Ud eligio  la Division')
-    A = int (input('Ingrese Numero 1: '))
-    B = int (input('Ingrese Numero 2: '))
-    division(A,B)
+
     
